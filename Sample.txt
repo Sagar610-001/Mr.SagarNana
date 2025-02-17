@@ -20,8 +20,12 @@ A big thank you to The Testing Academy for this insightful learning experience! 
 #Agile #Scrum #JIRA #Learning #Certification #TheTestingAcademy
 
 
+<<<<<<< HEAD
 Dsagar.m@iovista.comsagar.m@iovista.comsagar.m@iovista.com
 
 
 
 DASZDVXFBCSZ
+=======
+sagar.m@iovista.comsagar.m@iovista.comsagar.m@iovista.comsagar
+>>>>>>> 921a0ef761b48da772bd1ca923dba97e1dc7be3f
